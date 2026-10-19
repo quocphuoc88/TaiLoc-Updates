@@ -4,69 +4,69 @@
   "label": "GAU_DO",
   "releases": [
     {
-      "tag_name": "gau-do-v0.3.6",
+      "tag_name": "gau-do-v0.3.7",
       "draft": false,
       "prerelease": false,
       "assets": [
         {
           "name": "CAP_NHAT_GAU_DO.exe",
-          "size": 12547820,
-          "sha256": "9342fcdb7ec6869b1685e0eda8539f3db0f13968e4413c8ee85bb8af3ebad202"
+          "size": 12548516,
+          "sha256": "f8bd13be546847aed2b13b5a164f87c5cbbd507f10c42169d8dbcbee321c8eb4"
         },
         {
           "name": "CAP_NHAT_GAU_DO.exe.sha256",
           "size": 87,
-          "sha256": "0fae3b1cb21c2a0a245692c86dffcbb383c19aafdc3bea9483ce6aa456fcd2ce"
+          "sha256": "487ee3972c89e94c0d201bb68099336fe0cb0b2076f1af6bd8f58bbea0927317"
         },
         {
-          "name": "GAU_DO_0.3.6_Setup.exe",
-          "size": 69004743,
-          "sha256": "d3e7b4b7c41a6afa36e61186ec8c8a71bc3ea56459811b9509ecdeb51d30758c"
+          "name": "GAU_DO_0.3.7_Setup.exe",
+          "size": 69012619,
+          "sha256": "422a5671307eb9a055cb888d5b398464444a095824f34baa5fdd64d1748030a5"
         },
         {
-          "name": "GAU_DO_0.3.6_Setup.exe.sha256",
+          "name": "GAU_DO_0.3.7_Setup.exe.sha256",
           "size": 90,
-          "sha256": "d2c63f0629d25a56511cc9790a678765c02dc32d10a7171cb3e306d18ca9c451"
+          "sha256": "0c0c768573bed3f68ff2fc36f56c02743ab68a58af0d26d8ebde7c6571e6272d"
         },
         {
-          "name": "GAU_DO_0.3.6_Windows.zip",
-          "size": 67255965,
-          "sha256": "ab924a31e99342fd46a3708c5dd8d9c659b5abb617db6d0b61337171a1b0891a"
+          "name": "GAU_DO_0.3.7_Windows.zip",
+          "size": 67262949,
+          "sha256": "68402b5f1f0805643f092713bddbc05b6eccc18b50f14c45ff3d36d94e16e0f8"
         },
         {
-          "name": "GAU_DO_0.3.6_Windows.zip.sha256",
+          "name": "GAU_DO_0.3.7_Windows.zip.sha256",
           "size": 92,
-          "sha256": "b7432bebaf0548595d6220231dfed899fb25d2fe1fcf7a88501d225f17951cfe"
+          "sha256": "31afa2629b91091ae4cdbc1f9cb3c186ae4b9fd8b2a9d68b6684fd2028e98890"
         },
         {
-          "name": "GAU_DO_0.3.6_from_0.3.3_patch.zip",
-          "size": 28877112,
-          "sha256": "e53633ae90bba642e8e0b7568d9c2f66b04f90a9f4d5095381f8fc64b6bf003d"
+          "name": "GAU_DO_0.3.7_from_0.3.4_patch.zip",
+          "size": 28884882,
+          "sha256": "aca8b3bccc59d60200db6875d05dc8c160f4f6db08983eb62cc28d9f3dc57209"
         },
         {
-          "name": "GAU_DO_0.3.6_from_0.3.3_patch.zip.sha256",
+          "name": "GAU_DO_0.3.7_from_0.3.4_patch.zip.sha256",
           "size": 101,
-          "sha256": "f26dda170c977f52f0062207696b01230679f53768fdc68831b401a4646b37af"
+          "sha256": "7a1a9c86340d36a894b3ca9495875692630d4b3f7202092bc13494fd8e7616a4"
         },
         {
-          "name": "GAU_DO_0.3.6_from_0.3.4_patch.zip",
-          "size": 28875273,
-          "sha256": "fb78292cdd4461ac7b59ee6ded5bcb2f6c69daac8e57fb53839663c654f16333"
+          "name": "GAU_DO_0.3.7_from_0.3.5_patch.zip",
+          "size": 28884882,
+          "sha256": "01b475b50fd6e9dd6bd1d048bf858a24d93b77b5cc34ca5fc31a8cf944fe0af8"
         },
         {
-          "name": "GAU_DO_0.3.6_from_0.3.4_patch.zip.sha256",
+          "name": "GAU_DO_0.3.7_from_0.3.5_patch.zip.sha256",
           "size": 101,
-          "sha256": "e959a38c244f800364b3710d904a707f2c23f4ff7468fd77cf7d5e26656f8063"
+          "sha256": "c286b74e91e9c19ed0ce1ca470f4823cf3711d52b95289428ebdaae54dcd160b"
         },
         {
-          "name": "GAU_DO_0.3.6_from_0.3.5_patch.zip",
-          "size": 28859999,
-          "sha256": "09085d4a7fb606ce82b94d0fb6ebf643a95d6e89df4fd819905f9f89733e56ba"
+          "name": "GAU_DO_0.3.7_from_0.3.6_patch.zip",
+          "size": 28866006,
+          "sha256": "cb468ee7b6e1487347685100ab81bd352b1a4dd8c738f7d3588b239ebe9c6ff7"
         },
         {
-          "name": "GAU_DO_0.3.6_from_0.3.5_patch.zip.sha256",
+          "name": "GAU_DO_0.3.7_from_0.3.6_patch.zip.sha256",
           "size": 101,
-          "sha256": "5f79fe02747b3a3d16a98d0a6498e608506d957a136821482176a55bef186b9f"
+          "sha256": "d1c78b74b86c1193ae0a220476e863476b0606aef1949b1195f7a837f6115586"
         }
       ]
     }
