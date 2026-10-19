@@ -4,69 +4,69 @@
   "label": "CONG_NO",
   "releases": [
     {
-      "tag_name": "cong-no-v0.3.1",
+      "tag_name": "cong-no-v0.4.0",
       "draft": false,
       "prerelease": false,
       "assets": [
         {
           "name": "CAP_NHAT_CONG_NO.exe",
-          "size": 12312422,
-          "sha256": "d3a99cf8eee9e3b59fab97e5f98fdb88909d2c01ca0d6f38f45e413a4e724e0d"
+          "size": 12311125,
+          "sha256": "9714cfad0461bea298b4ca43fc766ed63e59902450bc6fd0fcb687c82def3157"
         },
         {
           "name": "CAP_NHAT_CONG_NO.exe.sha256",
           "size": 88,
-          "sha256": "7daca63afff0384d278679af74bd4c84a1d7f0a83872fcf34f09d40d041c619b"
+          "sha256": "2d717488ec8e4ade6e2a0e7cea8453a6c8e82f75d5fbe0c6832701fd660b3624"
         },
         {
-          "name": "CONG_NO_0.3.1_Setup.exe",
-          "size": 68677928,
-          "sha256": "464c0635f7542c4a21b3f82b38a12ca3ad3392aad382958a8bff927c7bc9d0ae"
+          "name": "CONG_NO_0.4.0_Setup.exe",
+          "size": 68758297,
+          "sha256": "5ff6bd8d214a1ca149efc27b8dd96aae1b3b5d73de232fecdf8d9cfed2bca117"
         },
         {
-          "name": "CONG_NO_0.3.1_Setup.exe.sha256",
+          "name": "CONG_NO_0.4.0_Setup.exe.sha256",
           "size": 91,
-          "sha256": "9a8ff797c615eddca2a50fdc97d3b28d397966543cdf18c8126cc2decbac9ec7"
+          "sha256": "eba4f74d76228f32884b1ef658d072aefcf3b188235daa2f6a7a70edbf64e915"
         },
         {
-          "name": "CONG_NO_0.3.1_Windows.zip",
-          "size": 66926043,
-          "sha256": "bf3e03cfd3f616435ea7b2268d2c2d459fe4414464a8a39b3b7aa68dfc01d044"
+          "name": "CONG_NO_0.4.0_Windows.zip",
+          "size": 67009183,
+          "sha256": "457c1342a0580bf23d71952e9ce9d56a8ed7749c20e0c739dfdde0b7c1e91e1d"
         },
         {
-          "name": "CONG_NO_0.3.1_Windows.zip.sha256",
+          "name": "CONG_NO_0.4.0_Windows.zip.sha256",
           "size": 93,
-          "sha256": "0413b10dc620bca9b15f2d566244b3c55c54a090c4111f4ae5c440502502fd61"
+          "sha256": "94252cbfb3387eeae8b5d28db393abde0d56ef26b16e60db16867feb3d874969"
         },
         {
-          "name": "CONG_NO_0.3.1_from_0.2.7_patch.zip",
-          "size": 28550125,
-          "sha256": "a3eca9ed9c4bc345f4f990e2332958c7131e33b4f443bfa9e031b7ff398011ea"
+          "name": "CONG_NO_0.4.0_from_0.2.8_patch.zip",
+          "size": 28629279,
+          "sha256": "04fd0dc98b998dc56de32176854427af46678b5a8556b25b21375fd6999f3b8c"
         },
         {
-          "name": "CONG_NO_0.3.1_from_0.2.7_patch.zip.sha256",
+          "name": "CONG_NO_0.4.0_from_0.2.8_patch.zip.sha256",
           "size": 102,
-          "sha256": "2ff62ce013d276d7c8ce6687d5b103f5fa12ed4f2acc0cfe6dbe9f0cf6e79ff4"
+          "sha256": "8e913b626e4c2f935fa898cae6d511014e75d113d38e886f874a5cab8182e77b"
         },
         {
-          "name": "CONG_NO_0.3.1_from_0.2.8_patch.zip",
-          "size": 28537250,
-          "sha256": "c09732cf6b2de66496c8b2807e247b2e46f247478cbc55fc36f86c017fb9edc7"
+          "name": "CONG_NO_0.4.0_from_0.3.0_patch.zip",
+          "size": 28615388,
+          "sha256": "c78e4ac42520bb4aa3d2d7259f40cc005812a4ef1c4689b00d66bf759075b449"
         },
         {
-          "name": "CONG_NO_0.3.1_from_0.2.8_patch.zip.sha256",
+          "name": "CONG_NO_0.4.0_from_0.3.0_patch.zip.sha256",
           "size": 102,
-          "sha256": "488f240bd627a222a38fd8172d9a22fd4c83c1e80b2f59d3f0cb5c2e21a04a71"
+          "sha256": "7d46b0e03081a1a8d11dd4b59979380b50134dabac20c0ee159d2bce5f5da248"
         },
         {
-          "name": "CONG_NO_0.3.1_from_0.3.0_patch.zip",
-          "size": 28518579,
-          "sha256": "be07697e4064f1c7e5d606eab00bd007d0e762f0a5adc379a1c18d27467b6a69"
+          "name": "CONG_NO_0.4.0_from_0.3.1_patch.zip",
+          "size": 28607738,
+          "sha256": "b7fc419c64697b3166837e51ee9cceb907ec9f57fa705d7f8f7a68f8136b2f2a"
         },
         {
-          "name": "CONG_NO_0.3.1_from_0.3.0_patch.zip.sha256",
+          "name": "CONG_NO_0.4.0_from_0.3.1_patch.zip.sha256",
           "size": 102,
-          "sha256": "56bafb8bf82d6d092b01303d65f85a533d61f3906a575b25b1806770c57a5ebd"
+          "sha256": "497e88f44652f9f7cb5ab05c1e1ef7c4e08ae967c24b42a37068688ac5bbee9c"
         }
       ]
     }
