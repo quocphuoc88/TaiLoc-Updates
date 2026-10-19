@@ -14,4 +14,8 @@ Tải [CAP_NHAT_HOA_DON.exe](https://github.com/quocphuoc88/TaiLoc-Updates/relea
 
 Tải [CAP_NHAT_CONG_NO.exe](https://github.com/quocphuoc88/TaiLoc-Updates/releases/download/cong-no-v0.2.0/CAP_NHAT_CONG_NO.exe), mở file và bấm **Cập nhật ngay**. Từ Công nợ 0.2.0 có thể cập nhật ngay trong ứng dụng.
 
+## Kế toán tổng hợp đã cài
+
+Tải [CAP_NHAT_KE_TOAN_TONG_HOP.exe](https://github.com/quocphuoc88/TaiLoc-Updates/releases/download/tong-hop-v0.6.0/CAP_NHAT_KE_TOAN_TONG_HOP.exe), mở file và bấm **Cập nhật ngay**. Từ 0.6.0 có thể cập nhật ngay trong ứng dụng. Giữ đúng kho thử hoặc kho làm việc tại máy.
+
 Lưu công việc trước khi cập nhật. Phần mềm tự tải đúng bộ cài, kiểm tra, sao lưu và mở lại đúng kho đang dùng. Không cần đăng nhập GitHub. Mất mạng vẫn làm việc tại máy. Mỗi ứng dụng chỉ nhận bản cập nhật của chính ứng dụng đó.
