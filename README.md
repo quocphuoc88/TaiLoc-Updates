@@ -8,6 +8,6 @@ Tải [CAP_NHAT_ORION.exe](https://github.com/quocphuoc88/TaiLoc-Updates/release
 
 ## Hóa đơn đã cài
 
-Tải [CAP_NHAT_HOA_DON.exe](https://github.com/quocphuoc88/TaiLoc-Updates/releases/download/hoa-don-v0.12.4/CAP_NHAT_HOA_DON.exe), mở file và bấm **Cập nhật ngay**. Từ Hóa đơn 0.12.4 có thể cập nhật ngay trong ứng dụng.
+Tải [CAP_NHAT_HOA_DON.exe](https://github.com/quocphuoc88/TaiLoc-Updates/releases/download/hoa-don-v0.12.5/CAP_NHAT_HOA_DON.exe), mở file và bấm **Cập nhật ngay**. Từ Hóa đơn 0.12.4 có thể cập nhật ngay trong ứng dụng.
 
 Lưu công việc trước khi cập nhật. Phần mềm tự tải đúng bộ cài, kiểm tra, sao lưu và mở lại đúng kho đang dùng. Không cần đăng nhập GitHub. Mất mạng vẫn làm việc tại máy. Mỗi ứng dụng chỉ nhận bản cập nhật của chính ứng dụng đó.
