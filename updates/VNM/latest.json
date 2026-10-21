@@ -1,0 +1,34 @@
+{
+  "format": 1,
+  "application": "tailoc-vnm-local",
+  "label": "VNM",
+  "releases": [
+    {
+      "tag_name": "vnm-v0.11.2",
+      "draft": false,
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "VNM_0.11.2_Setup.exe",
+          "size": 58534252,
+          "sha256": "e0ae47ad23d2f984ad293f88af76669f4b3efdfb0b439609c04a0b4134ad66ac"
+        },
+        {
+          "name": "VNM_0.11.2_Setup.exe.sha256",
+          "size": 88,
+          "sha256": "a89705401787915af95876cbf0c042c632f8b31950b153a30029b2691098e9d1"
+        },
+        {
+          "name": "VNM_0.11.2_Windows.zip",
+          "size": 56774611,
+          "sha256": "f72b20325c1e03c0b4fae41b81990608433359adaaf5b1583fbcee87478c6831"
+        },
+        {
+          "name": "VNM_0.11.2_Windows.zip.sha256",
+          "size": 90,
+          "sha256": "a3f321540bd9ebd0f0ae83292ad8e524d88d23bf7fd3f195e1149e72119685cc"
+        }
+      ]
+    }
+  ]
+}

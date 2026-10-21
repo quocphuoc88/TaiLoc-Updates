@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "application": "tailoc-hoa-don-local",
+  "label": "HOA_DON",
+  "releases": [
+    {
+      "tag_name": "hoa-don-v0.12.9",
+      "draft": false,
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "CAP_NHAT_HOA_DON.exe",
+          "size": 12308556,
+          "sha256": "db9d3b22872c7a082c3e64ab987f547194e27c7b37f8ac664d9d714fc9061281"
+        },
+        {
+          "name": "CAP_NHAT_HOA_DON.exe.sha256",
+          "size": 88,
+          "sha256": "159a2f4e50d50c55fede4b68a63fca5703a8f78500270f054341dc62e9dea8bf"
+        },
+        {
+          "name": "HOA_DON_0.12.9_Setup.exe",
+          "size": 68668841,
+          "sha256": "ddef871903113ad2a858aa5503ab0941a9f69e66fe437633a007c2e990fd6074"
+        },
+        {
+          "name": "HOA_DON_0.12.9_Setup.exe.sha256",
+          "size": 92,
+          "sha256": "68c2b88b9c424bec8f8f5970b85f689b4cff538eb4cfb9225f10e328b790c2bb"
+        },
+        {
+          "name": "HOA_DON_0.12.9_Windows.zip",
+          "size": 66974988,
+          "sha256": "346c60651fe4c6629dcd30f84eb1ada69e5b5d6090714a416493d25f4775e93e"
+        },
+        {
+          "name": "HOA_DON_0.12.9_Windows.zip.sha256",
+          "size": 94,
+          "sha256": "7a011b2f5ce47dab98286e46661b3cd4990c2b4f338ad51048681bf21c44c0df"
+        }
+      ]
+    }
+  ]
+}

@@ -4,69 +4,69 @@
   "label": "ORION",
   "releases": [
     {
-      "tag_name": "orion-v1.0.17",
+      "tag_name": "orion-v1.0.18",
       "draft": false,
       "prerelease": false,
       "assets": [
         {
           "name": "CAP_NHAT_ORION.exe",
-          "size": 13442095,
-          "sha256": "11ed58318412ae60b1081f8b18d20206457ab1f93c4a15b49f47ba8ccbbfebf9"
+          "size": 13442839,
+          "sha256": "1fedcdd7d3d9cbbb1adb5f394650c00f615b7ef1bdba177ae78728f70584307f"
         },
         {
           "name": "CAP_NHAT_ORION.exe.sha256",
           "size": 86,
-          "sha256": "30c3a550fbfa5065a1798bc75df6a2387436c5475dc107ef699a4f596db36b59"
+          "sha256": "d8d529d28d9e1f42cef66b9818a67f51f119e830f1d3b07020c175af46078524"
         },
         {
-          "name": "ORION_1.0.17_Setup.exe",
-          "size": 91770677,
-          "sha256": "eb10243477e0440e1ba72ed8fb1f77d3c590b8af8fed79972daba3968f62ab46"
+          "name": "ORION_1.0.18_Setup.exe",
+          "size": 91738469,
+          "sha256": "e07ac1711cb11f9234111149d2194e0e0fe603de1f713d55248c34bfd9659f2e"
         },
         {
-          "name": "ORION_1.0.17_Setup.exe.sha256",
+          "name": "ORION_1.0.18_Setup.exe.sha256",
           "size": 90,
-          "sha256": "a9740c64b9eba69b8f03d6af5c1d6dd1924d84bb5433a030f45e5cf532219422"
+          "sha256": "2638d2ae9a6f2fa927d31533d74679837b646caf777b5c5ca41b94300d240415"
         },
         {
-          "name": "ORION_1.0.17_Windows.zip",
-          "size": 90211925,
-          "sha256": "77b9b5aef5ee38a54a47de93098d927184414821ddee12c9ea8fdb08d0d99171"
+          "name": "ORION_1.0.18_Windows.zip",
+          "size": 90235054,
+          "sha256": "041eb2d3409a1c7d33735b628197e1bb01962293556ada9cb5f2d665c4e45c19"
         },
         {
-          "name": "ORION_1.0.17_Windows.zip.sha256",
+          "name": "ORION_1.0.18_Windows.zip.sha256",
           "size": 92,
-          "sha256": "cfa7631fba8d3f40e7b606ffc34b9569853fd0c1c37af3297ab69c893b687751"
+          "sha256": "a5bef660a3b338adf01f0abf348f17b4bb09fdb8746e1d15480b19f0f8c962bc"
         },
         {
-          "name": "ORION_1.0.17_from_1.0.14_patch.zip",
-          "size": 37771513,
-          "sha256": "9523745ec8693087f9fcdb3d89682db1358d9de8e3e06ec9c3a0b5c95ec18559"
+          "name": "ORION_1.0.18_from_1.0.15_patch.zip",
+          "size": 37779896,
+          "sha256": "0d7a5fc13af7d300c5887a8fcec6287b567be3dd4888da1c52ca082571a43b6b"
         },
         {
-          "name": "ORION_1.0.17_from_1.0.14_patch.zip.sha256",
+          "name": "ORION_1.0.18_from_1.0.15_patch.zip.sha256",
           "size": 102,
-          "sha256": "26d835c674649d961a90826a1237867cb6a3428808854040542b55406dc7aa55"
+          "sha256": "ed89201f35bd1f1fbd70d0a3e077a0d3c864012bd5903d359fa9b0022ce585cf"
         },
         {
-          "name": "ORION_1.0.17_from_1.0.15_patch.zip",
-          "size": 37756670,
-          "sha256": "e8fb18320acfd1a2bad378c2b1e05af93bf24ad1938f11113d3c6f744f10e99c"
+          "name": "ORION_1.0.18_from_1.0.16_patch.zip",
+          "size": 37773259,
+          "sha256": "fc2be66f0dcbb26856d911a6e0e3162318bb37a43dd8ab664204880bfe65ad24"
         },
         {
-          "name": "ORION_1.0.17_from_1.0.15_patch.zip.sha256",
+          "name": "ORION_1.0.18_from_1.0.16_patch.zip.sha256",
           "size": 102,
-          "sha256": "b23b4a6b3f763c354ffbf14e77ee1d134d2aa0d78833f59db3e370ece1d61aa9"
+          "sha256": "926fe4c07d9b187881535f3b50ceefe2e87ebc707197dd2b5493198fc8bc0b5f"
         },
         {
-          "name": "ORION_1.0.17_from_1.0.16_patch.zip",
-          "size": 37750033,
-          "sha256": "d908af7752551fd8a65fab4efa35b9aef500f252d428d0181bf67d0a59420beb"
+          "name": "ORION_1.0.18_from_1.0.17_patch.zip",
+          "size": 37763368,
+          "sha256": "54e424bfaa517ab8fc90d8c1e5c2cfb2e658089419df9001fac9554d156a026f"
         },
         {
-          "name": "ORION_1.0.17_from_1.0.16_patch.zip.sha256",
+          "name": "ORION_1.0.18_from_1.0.17_patch.zip.sha256",
           "size": 102,
-          "sha256": "5e3e978133dec12f4d7cd0df7901e2b56386e0e557733d6c6fc62ac68d388d87"
+          "sha256": "2a23f46e74d754997416f9ca117f040ca1c0e65a001764b92d175330c37a94e9"
         }
       ]
     }
