@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "application": "tailoc-cong-no-local",
+  "label": "CONG_NO",
+  "releases": [
+    {
+      "tag_name": "cong-no-v0.4.5",
+      "draft": false,
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "CAP_NHAT_CONG_NO.exe",
+          "size": 12436509,
+          "sha256": "e9317c1f3ea5e9a7e2ff92a2e80f0a1a775f5dfc1ddfa0034c832e452098421c"
+        },
+        {
+          "name": "CAP_NHAT_CONG_NO.exe.sha256",
+          "size": 88,
+          "sha256": "3179722d7618c2a44b0ab1ba30b00df632b472b65422af7e79d2ca83707afbf5"
+        },
+        {
+          "name": "CONG_NO_0.4.5_Setup.exe",
+          "size": 81099862,
+          "sha256": "bb52a6e12e1ae783529490e86c03b7691013a0ad41036b12fb1a0188e7ce9032"
+        },
+        {
+          "name": "CONG_NO_0.4.5_Setup.exe.sha256",
+          "size": 91,
+          "sha256": "6096ebd610d5e7fd14fb2d8284505f5771cc578b139d06185cc299dc6e64de22"
+        },
+        {
+          "name": "CONG_NO_0.4.5_Windows.zip",
+          "size": 79405171,
+          "sha256": "3441a79d146b63eef6bfe0f74a0b347e6f0f71c3c8cc382e390ab667be84d41f"
+        },
+        {
+          "name": "CONG_NO_0.4.5_Windows.zip.sha256",
+          "size": 93,
+          "sha256": "b0d0f6ce2fbae116891fa69518954a3cf6f3d657882d7cc21c248ec18074433b"
+        },
+        {
+          "name": "CONG_NO_0.4.5_from_0.4.2_patch.zip",
+          "size": 41006842,
+          "sha256": "ef023193e5b2780ec9e6d813ac98fa570520240fadd66374c7cc18cd8542b829"
+        },
+        {
+          "name": "CONG_NO_0.4.5_from_0.4.2_patch.zip.sha256",
+          "size": 102,
+          "sha256": "7283b3befd977a1a0ca6543b6b9bddec9f8be4d58e8f5e0c77010427623c2cfe"
+        },
+        {
+          "name": "CONG_NO_0.4.5_from_0.4.3_patch.zip",
+          "size": 40973556,
+          "sha256": "5996825b30141754b65c69c84408bf47e2f0a7e622b80c42adeddbbeb69ad2db"
+        },
+        {
+          "name": "CONG_NO_0.4.5_from_0.4.3_patch.zip.sha256",
+          "size": 102,
+          "sha256": "8c26ab8f68e4c79acc6741da358711d5a93a08977602438ff5bd60f1e9c6baa1"
+        },
+        {
+          "name": "CONG_NO_0.4.5_from_0.4.4_patch.zip",
+          "size": 40963518,
+          "sha256": "c1ef986a56af7d04f988885659e7be20ccddcc21e7bc52eb67bb697f8f7151f7"
+        },
+        {
+          "name": "CONG_NO_0.4.5_from_0.4.4_patch.zip.sha256",
+          "size": 102,
+          "sha256": "585f036aa5b953585b0ffeb5c44328f714861dcd0ac0b46a65ac73a99fb5033e"
+        }
+      ]
+    }
+  ]
+}
