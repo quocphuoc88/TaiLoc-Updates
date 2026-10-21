@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "application": "tailoc-vnm-local",
+  "label": "VNM",
+  "releases": [
+    {
+      "tag_name": "vnm-v0.14.2",
+      "draft": false,
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "CAP_NHAT_VNM.exe",
+          "size": 12436509,
+          "sha256": "e9317c1f3ea5e9a7e2ff92a2e80f0a1a775f5dfc1ddfa0034c832e452098421c"
+        },
+        {
+          "name": "CAP_NHAT_VNM.exe.sha256",
+          "size": 84,
+          "sha256": "81e99bd9e130abec0a286022d420547987d7e66c044bc192762c484e52e3f8c1"
+        },
+        {
+          "name": "VNM_0.14.2_Setup.exe",
+          "size": 70775359,
+          "sha256": "3e70c6274195230c26b6343b960551f269b460c0e0037a7ea1d2f6a3a572502b"
+        },
+        {
+          "name": "VNM_0.14.2_Setup.exe.sha256",
+          "size": 88,
+          "sha256": "ffc898db246c5389d4f3665d5a1c08c4ba1ac423c2012daeb77bfa408ba2f2e6"
+        },
+        {
+          "name": "VNM_0.14.2_Windows.zip",
+          "size": 69070983,
+          "sha256": "a9f3a06bef5bf020b96828adf04317bfa3aa33302af5813a089de5d6b07a0aa5"
+        },
+        {
+          "name": "VNM_0.14.2_Windows.zip.sha256",
+          "size": 90,
+          "sha256": "1d1b6c9f63decadc3998fdef4dc05a062587f652cce0883702e219c3996c1416"
+        },
+        {
+          "name": "VNM_0.14.2_from_0.13.0_patch.zip",
+          "size": 31226298,
+          "sha256": "f445bc53b5a2f8f585ac4a43001ed850ef257c19a541263534c28544176ba9bd"
+        },
+        {
+          "name": "VNM_0.14.2_from_0.13.0_patch.zip.sha256",
+          "size": 100,
+          "sha256": "c476632ea14fd443d423917b2a1a7d82bf8318663421d8447dabbdf5c9afedfe"
+        },
+        {
+          "name": "VNM_0.14.2_from_0.14.0_patch.zip",
+          "size": 31224161,
+          "sha256": "c4fa96d267c1e0eb80772b748abb1f68b2a39fbf2529ac1f83d11f3558867780"
+        },
+        {
+          "name": "VNM_0.14.2_from_0.14.0_patch.zip.sha256",
+          "size": 100,
+          "sha256": "1eaa7ed38838c4ff872823055ed7fa622e931379e70a9e4c528a65c7ea4e19d8"
+        },
+        {
+          "name": "VNM_0.14.2_from_0.14.1_patch.zip",
+          "size": 31196795,
+          "sha256": "65010b7d96e6f607bb1dbc37cd7943cef079ccde622fd0719abb23db14a8b30d"
+        },
+        {
+          "name": "VNM_0.14.2_from_0.14.1_patch.zip.sha256",
+          "size": 100,
+          "sha256": "af6f1b112683f04f2e3f84b586df964c03a4232a13331d0b3261dc389bc6bf7d"
+        }
+      ]
+    }
+  ]
+}
