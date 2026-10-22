@@ -4,69 +4,69 @@
   "label": "KE_TOAN_TONG_HOP",
   "releases": [
     {
-      "tag_name": "tong-hop-v0.11.5",
+      "tag_name": "tong-hop-v0.11.6",
       "draft": false,
       "prerelease": false,
       "assets": [
         {
           "name": "CAP_NHAT_KE_TOAN_TONG_HOP.exe",
-          "size": 12436509,
-          "sha256": "e9317c1f3ea5e9a7e2ff92a2e80f0a1a775f5dfc1ddfa0034c832e452098421c"
+          "size": 12437056,
+          "sha256": "d6ccf69db4a16cfb1b4d5983b79711aab70ad4e0f5da846506e98da4b4dc4350"
         },
         {
           "name": "CAP_NHAT_KE_TOAN_TONG_HOP.exe.sha256",
           "size": 97,
-          "sha256": "da18a9a21a693b545af06a50d1aba6612c2e4d30e8ed496c0400d889f0ca981d"
+          "sha256": "0b2d1c8a868a04d5863028bc76c38eb1bad3ba49c4fe860c158d83b604b45293"
         },
         {
-          "name": "KE_TOAN_TONG_HOP_0.11.5_Setup.exe",
-          "size": 121718913,
-          "sha256": "f212748e471bb958cfa6aa508e16f95a955e26c7a65bb13a35860d27cfabc150"
+          "name": "KE_TOAN_TONG_HOP_0.11.6_Setup.exe",
+          "size": 121723547,
+          "sha256": "159fa7be7c008bd3588c7d74292e41e4df0a784a9da1b66424b0fad0ebcac18a"
         },
         {
-          "name": "KE_TOAN_TONG_HOP_0.11.5_Setup.exe.sha256",
+          "name": "KE_TOAN_TONG_HOP_0.11.6_Setup.exe.sha256",
           "size": 101,
-          "sha256": "3b3e8348422d0aad1ef6572a53e3f9f1c8bf0c79404bb3375ee3a22c4c55f4bb"
+          "sha256": "69de8ee54014df6f2439457dd3f0355545650a05685b100c1fb1fe63ad511bf4"
         },
         {
-          "name": "KE_TOAN_TONG_HOP_0.11.5_Windows.zip",
-          "size": 120424903,
-          "sha256": "13ff3c26949375f0dcee804cbda6ec2a00e4c9f7ed9045c7b2e49c06c98025d5"
+          "name": "KE_TOAN_TONG_HOP_0.11.6_Windows.zip",
+          "size": 120429734,
+          "sha256": "5796b0f7c2be00fca0bc845f68661e07a509c461dd93f0959ad37154097b36d9"
         },
         {
-          "name": "KE_TOAN_TONG_HOP_0.11.5_Windows.zip.sha256",
+          "name": "KE_TOAN_TONG_HOP_0.11.6_Windows.zip.sha256",
           "size": 103,
-          "sha256": "f23de7e5ad880a78671001a2f30ea6be8f4168122763600452eceb8d81327b51"
+          "sha256": "7153700280528d0d6423d7be2d51b8cc0d56d15d815dc69f654cb89949a92250"
         },
         {
-          "name": "KE_TOAN_TONG_HOP_0.11.5_from_0.11.2_patch.zip",
-          "size": 50382087,
-          "sha256": "fd01115ef44497165ea598ed99ec835ca98041e20a8635302b1f8205e705b3c3"
+          "name": "KE_TOAN_TONG_HOP_0.11.6_from_0.11.3_patch.zip",
+          "size": 50389002,
+          "sha256": "003be60659bee2308d23fd251f33eecd76bc925d1f59e9a0f7923f5c462b6f20"
         },
         {
-          "name": "KE_TOAN_TONG_HOP_0.11.5_from_0.11.2_patch.zip.sha256",
+          "name": "KE_TOAN_TONG_HOP_0.11.6_from_0.11.3_patch.zip.sha256",
           "size": 113,
-          "sha256": "715d5703346db499b2c697d44e62679b3469ec35bffbda3e19d8b705c5ce6533"
+          "sha256": "18bd4b724b31a53734582a48d3341caedad24ffad9dc89e7cae02986c2abae49"
         },
         {
-          "name": "KE_TOAN_TONG_HOP_0.11.5_from_0.11.3_patch.zip",
-          "size": 50381150,
-          "sha256": "60105500ac0011968bd1d7839ef19cb0abb42d85f1a8e578c33a51f1418387f1"
+          "name": "KE_TOAN_TONG_HOP_0.11.6_from_0.11.4_patch.zip",
+          "size": 50384067,
+          "sha256": "ee6c4d23e986404caacebb2e5d791229684b972b0587e8c6bd06710458f90fde"
         },
         {
-          "name": "KE_TOAN_TONG_HOP_0.11.5_from_0.11.3_patch.zip.sha256",
+          "name": "KE_TOAN_TONG_HOP_0.11.6_from_0.11.4_patch.zip.sha256",
           "size": 113,
-          "sha256": "9754d786db1f4243791e57be1b577947068e6596ab4567a4627e7617645ca581"
+          "sha256": "5abc2bc83525fb870e82ddcd2ae64649855bacb769c5fa65e4f812dd703a4de5"
         },
         {
-          "name": "KE_TOAN_TONG_HOP_0.11.5_from_0.11.4_patch.zip",
-          "size": 50376215,
-          "sha256": "f4514516e82845140f207643e0dedf3bd74d994ecad1878791b4c6b47874cbc4"
+          "name": "KE_TOAN_TONG_HOP_0.11.6_from_0.11.5_patch.zip",
+          "size": 50377954,
+          "sha256": "326da811c5c809b99f72c6290cd17d918363e686af3a734327fd5b5bfd4c9ef0"
         },
         {
-          "name": "KE_TOAN_TONG_HOP_0.11.5_from_0.11.4_patch.zip.sha256",
+          "name": "KE_TOAN_TONG_HOP_0.11.6_from_0.11.5_patch.zip.sha256",
           "size": 113,
-          "sha256": "658d09e2613be95499bbb036cd0f0e2b0d5a4d0e04030cf9e8884fa024e3402d"
+          "sha256": "9c3533279048ce4c29f024598ebc61eb753274ab0313225c287b1783ea8daf25"
         }
       ]
     }
