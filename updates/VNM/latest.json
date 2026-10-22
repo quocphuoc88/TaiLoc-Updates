@@ -4,69 +4,69 @@
   "label": "VNM",
   "releases": [
     {
-      "tag_name": "vnm-v0.14.2",
+      "tag_name": "vnm-v0.14.3",
       "draft": false,
       "prerelease": false,
       "assets": [
         {
           "name": "CAP_NHAT_VNM.exe",
-          "size": 12436509,
-          "sha256": "e9317c1f3ea5e9a7e2ff92a2e80f0a1a775f5dfc1ddfa0034c832e452098421c"
+          "size": 12437056,
+          "sha256": "d6ccf69db4a16cfb1b4d5983b79711aab70ad4e0f5da846506e98da4b4dc4350"
         },
         {
           "name": "CAP_NHAT_VNM.exe.sha256",
           "size": 84,
-          "sha256": "81e99bd9e130abec0a286022d420547987d7e66c044bc192762c484e52e3f8c1"
+          "sha256": "b8192a9e8f90bbfded5d106049f72079879362b7066152aac654b2bc530c3c09"
         },
         {
-          "name": "VNM_0.14.2_Setup.exe",
-          "size": 70775359,
-          "sha256": "3e70c6274195230c26b6343b960551f269b460c0e0037a7ea1d2f6a3a572502b"
+          "name": "VNM_0.14.3_Setup.exe",
+          "size": 70778226,
+          "sha256": "76cf4d1072b03ea6551e6bda483e0afce433eaffef858969314cb73cc14f853b"
         },
         {
-          "name": "VNM_0.14.2_Setup.exe.sha256",
+          "name": "VNM_0.14.3_Setup.exe.sha256",
           "size": 88,
-          "sha256": "ffc898db246c5389d4f3665d5a1c08c4ba1ac423c2012daeb77bfa408ba2f2e6"
+          "sha256": "4365f31d8dc74621c44d838f748132d114d5a344f662753d0b1fd9262995a93e"
         },
         {
-          "name": "VNM_0.14.2_Windows.zip",
-          "size": 69070983,
-          "sha256": "a9f3a06bef5bf020b96828adf04317bfa3aa33302af5813a089de5d6b07a0aa5"
+          "name": "VNM_0.14.3_Windows.zip",
+          "size": 69074773,
+          "sha256": "6fa0dfcbde78e3f119f0e09b369f4d3cc3a58209868fedcd713434b082d85429"
         },
         {
-          "name": "VNM_0.14.2_Windows.zip.sha256",
+          "name": "VNM_0.14.3_Windows.zip.sha256",
           "size": 90,
-          "sha256": "1d1b6c9f63decadc3998fdef4dc05a062587f652cce0883702e219c3996c1416"
+          "sha256": "4badb4f715c3025ce949369e34e46f7750ca7da2b40a100bc4da140f81508061"
         },
         {
-          "name": "VNM_0.14.2_from_0.13.0_patch.zip",
-          "size": 31226298,
-          "sha256": "f445bc53b5a2f8f585ac4a43001ed850ef257c19a541263534c28544176ba9bd"
+          "name": "VNM_0.14.3_from_0.14.0_patch.zip",
+          "size": 31228076,
+          "sha256": "821472c9686de23550e946874dfb14a1fe6f32e65043adb263007a179b754eaf"
         },
         {
-          "name": "VNM_0.14.2_from_0.13.0_patch.zip.sha256",
+          "name": "VNM_0.14.3_from_0.14.0_patch.zip.sha256",
           "size": 100,
-          "sha256": "c476632ea14fd443d423917b2a1a7d82bf8318663421d8447dabbdf5c9afedfe"
+          "sha256": "c73a4a41a1e7e9018e0dfe6ecfcf233b2517bf9656a00daff8427d7f1fd91b96"
         },
         {
-          "name": "VNM_0.14.2_from_0.14.0_patch.zip",
-          "size": 31224161,
-          "sha256": "c4fa96d267c1e0eb80772b748abb1f68b2a39fbf2529ac1f83d11f3558867780"
+          "name": "VNM_0.14.3_from_0.14.1_patch.zip",
+          "size": 31207461,
+          "sha256": "9f7efccdba554ab1b78d8943575d0c49e48cdf26fa57bfdae0296cbe424d2784"
         },
         {
-          "name": "VNM_0.14.2_from_0.14.0_patch.zip.sha256",
+          "name": "VNM_0.14.3_from_0.14.1_patch.zip.sha256",
           "size": 100,
-          "sha256": "1eaa7ed38838c4ff872823055ed7fa622e931379e70a9e4c528a65c7ea4e19d8"
+          "sha256": "7dd798ca55a542b6c15dc674623495a1e412209a68708622ac3e5b7f6df7dec6"
         },
         {
-          "name": "VNM_0.14.2_from_0.14.1_patch.zip",
-          "size": 31196795,
-          "sha256": "65010b7d96e6f607bb1dbc37cd7943cef079ccde622fd0719abb23db14a8b30d"
+          "name": "VNM_0.14.3_from_0.14.2_patch.zip",
+          "size": 30132663,
+          "sha256": "dcd791b130fd13843ec6fda4d537810c7dac12da558bc88b173b1ddfe55825dc"
         },
         {
-          "name": "VNM_0.14.2_from_0.14.1_patch.zip.sha256",
+          "name": "VNM_0.14.3_from_0.14.2_patch.zip.sha256",
           "size": 100,
-          "sha256": "af6f1b112683f04f2e3f84b586df964c03a4232a13331d0b3261dc389bc6bf7d"
+          "sha256": "9b77a02874f4cfe252bab0b85ab6ea18036305cd7ea5c7db71d0941b9df00e47"
         }
       ]
     }
