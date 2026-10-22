@@ -4,69 +4,69 @@
   "label": "GAU_DO",
   "releases": [
     {
-      "tag_name": "gau-do-v0.3.12",
+      "tag_name": "gau-do-v0.3.13",
       "draft": false,
       "prerelease": false,
       "assets": [
         {
           "name": "CAP_NHAT_GAU_DO.exe",
-          "size": 12436509,
-          "sha256": "e9317c1f3ea5e9a7e2ff92a2e80f0a1a775f5dfc1ddfa0034c832e452098421c"
+          "size": 12437478,
+          "sha256": "7aed429d071e82f0bc3c73715b2f11a68d5e2386ec2e2b7c7a6459acea59403b"
         },
         {
           "name": "CAP_NHAT_GAU_DO.exe.sha256",
           "size": 87,
-          "sha256": "51ae2b3598084d52239eb11ea45820453b2a83baee7e5850e4bee05a0fa28fea"
+          "sha256": "3d7f06dedc9d55e3b100afa4e64c16b7df1a7e4e3af11ceaca4c0e4121d8962e"
         },
         {
-          "name": "GAU_DO_0.3.12_Setup.exe",
-          "size": 81139210,
-          "sha256": "32a3a060f3231338f8768f043839545e6bfe152247a351085ab80f83595fc181"
+          "name": "GAU_DO_0.3.13_Setup.exe",
+          "size": 81141067,
+          "sha256": "1208331979ad4ed7b7f423421dd8f6655eb32e4e39e52551ea4f854ad3222173"
         },
         {
-          "name": "GAU_DO_0.3.12_Setup.exe.sha256",
+          "name": "GAU_DO_0.3.13_Setup.exe.sha256",
           "size": 91,
-          "sha256": "c82b315f00e48419a9d1d21a5984844c09a27dc6bdb96f316aca0e1cc64311f2"
+          "sha256": "667a3796ae84c542352eeaf6eb70bb0431062fc840088aa6f6e932cc5ce49f60"
         },
         {
-          "name": "GAU_DO_0.3.12_Windows.zip",
-          "size": 79390204,
-          "sha256": "89ba7e7f1c51ad1d7f51e08a213ec37c86f2431d36de62aa564a19db493e4b7c"
+          "name": "GAU_DO_0.3.13_Windows.zip",
+          "size": 79392988,
+          "sha256": "83eff1cce5b05eb47ff77e9a6e1a9e48704be93d302611c30e0e58c42f39c390"
         },
         {
-          "name": "GAU_DO_0.3.12_Windows.zip.sha256",
+          "name": "GAU_DO_0.3.13_Windows.zip.sha256",
           "size": 93,
-          "sha256": "65e8941803021d6172378dc3960e659c9a5d838b7a834b9d64801ae9d0cb1de1"
+          "sha256": "a096af758d369836ff45618a75453cb318efa91d7a1df92ed0ee42d1de653f49"
         },
         {
-          "name": "GAU_DO_0.3.12_from_0.3.10_patch.zip",
-          "size": 40989566,
-          "sha256": "7f2eeb86e5b2646bf7ae1bfe5adc0d0280ee34d7a1b641839907e28d4b54e62f"
+          "name": "GAU_DO_0.3.13_from_0.3.10_patch.zip",
+          "size": 40996703,
+          "sha256": "f84043fd670cbc1b25cc7e01f30180386dc8987499248641d1670bae948932cc"
         },
         {
-          "name": "GAU_DO_0.3.12_from_0.3.10_patch.zip.sha256",
+          "name": "GAU_DO_0.3.13_from_0.3.10_patch.zip.sha256",
           "size": 103,
-          "sha256": "aa419eb1da83793ab5655cfd36d0efb7a6fdc5fc16876021313d3895f69b4734"
+          "sha256": "48f446298f1167a8dbb78f38b951fd4083c279fe125d70d75a1258bdb4d56f24"
         },
         {
-          "name": "GAU_DO_0.3.12_from_0.3.11_patch.zip",
-          "size": 16576275,
-          "sha256": "1e674fde707887cd981c7fd6a3e4c87b94dfcba2ec88d10e4b32dea48dfcda79"
+          "name": "GAU_DO_0.3.13_from_0.3.11_patch.zip",
+          "size": 40994422,
+          "sha256": "57b2282ae17667923bf2fbd6abd1d83782e07d50cab856741a7b395ec60e4dc8"
         },
         {
-          "name": "GAU_DO_0.3.12_from_0.3.11_patch.zip.sha256",
+          "name": "GAU_DO_0.3.13_from_0.3.11_patch.zip.sha256",
           "size": 103,
-          "sha256": "11650e19fe0fe392a6dfd583dc99ae7a169bf52299bd0ff2ced5602326199eca"
+          "sha256": "77b223479ba0fe5b276a0afd2e2ab3d8cde073d708caca2991aeb5037292e4b0"
         },
         {
-          "name": "GAU_DO_0.3.12_from_0.3.9_patch.zip",
-          "size": 40999337,
-          "sha256": "6cd7fd907714755f913ab2e7c4d8bec6da2b9ae828dded43f2c9b6c42bb77d6c"
+          "name": "GAU_DO_0.3.13_from_0.3.12_patch.zip",
+          "size": 40983681,
+          "sha256": "b828b405ee82831927640d41cc43d71769253119ff09ad6d7b4a4ec5a4324ca2"
         },
         {
-          "name": "GAU_DO_0.3.12_from_0.3.9_patch.zip.sha256",
-          "size": 102,
-          "sha256": "1a09751d3e57d524eb86c29b8896bc3bbf615758b73e541b49d6f2aba7f8e41a"
+          "name": "GAU_DO_0.3.13_from_0.3.12_patch.zip.sha256",
+          "size": 103,
+          "sha256": "32ba1d957ca390a39fba55f5622d2730062440ae439b718a38282e6b1b55d0af"
         }
       ]
     }
