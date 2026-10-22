@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "application": "tailoc-hoa-don-local",
+  "label": "HOA_DON",
+  "releases": [
+    {
+      "tag_name": "hoa-don-v0.12.11",
+      "draft": false,
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "CAP_NHAT_HOA_DON.exe",
+          "size": 12437056,
+          "sha256": "d6ccf69db4a16cfb1b4d5983b79711aab70ad4e0f5da846506e98da4b4dc4350"
+        },
+        {
+          "name": "CAP_NHAT_HOA_DON.exe.sha256",
+          "size": 88,
+          "sha256": "ee9c17e35a20e28023e1b10c87510ec4d4f29da7e03b17eddc1d1453ae07498a"
+        },
+        {
+          "name": "HOA_DON_0.12.11_Setup.exe",
+          "size": 81008818,
+          "sha256": "3cf808b16a69741550478f918b90a111399468af9c8698800a96076360913057"
+        },
+        {
+          "name": "HOA_DON_0.12.11_Setup.exe.sha256",
+          "size": 93,
+          "sha256": "5c591da91a557c5c118e3ca61453a8717191d1214fe656b479f796ad47c03017"
+        },
+        {
+          "name": "HOA_DON_0.12.11_Windows.zip",
+          "size": 79314546,
+          "sha256": "40501ce567b5a07067b536e4498fc55bc4d3da0f7efab838ed44c1082877d312"
+        },
+        {
+          "name": "HOA_DON_0.12.11_Windows.zip.sha256",
+          "size": 95,
+          "sha256": "bd2bdb9206953a575e1c9e56fc414036ceb0ee8f6ef1e96b09209b2eebd661d0"
+        },
+        {
+          "name": "HOA_DON_0.12.11_from_0.12.10_patch.zip",
+          "size": 40884223,
+          "sha256": "3dab63b2077fb5e778e2c059c5af6fd5a979304f1171487f15fa2ff5dae0fee3"
+        },
+        {
+          "name": "HOA_DON_0.12.11_from_0.12.10_patch.zip.sha256",
+          "size": 106,
+          "sha256": "9cc558e712cd46895cdd1c30986926ae0dfe1b102bb2dd4c5cdf58fcd13d7ac7"
+        },
+        {
+          "name": "HOA_DON_0.12.11_from_0.12.8_patch.zip",
+          "size": 40896351,
+          "sha256": "57943552f35d6b07995036a3bc8e77c7ca32e9758c14e0319cc0e9064a723434"
+        },
+        {
+          "name": "HOA_DON_0.12.11_from_0.12.8_patch.zip.sha256",
+          "size": 105,
+          "sha256": "dfee4c573c8cf984ab9bb430b725340d4325b039dd2dfcb9d7fdad6741096caf"
+        },
+        {
+          "name": "HOA_DON_0.12.11_from_0.12.9_patch.zip",
+          "size": 40889845,
+          "sha256": "f6ec4288af6010cb26e0537f72707b69168db670ec8f5f743daac9149dbd6cf6"
+        },
+        {
+          "name": "HOA_DON_0.12.11_from_0.12.9_patch.zip.sha256",
+          "size": 105,
+          "sha256": "48eba3cbbdb22221a0604fa2283f9b49591577723206f682c57dcee2171c95b9"
+        }
+      ]
+    }
+  ]
+}
