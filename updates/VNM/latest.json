@@ -4,79 +4,49 @@
   "label": "VNM",
   "releases": [
     {
-      "tag_name": "vnm-v0.15.0",
+      "tag_name": "vnm-v0.15.1",
       "draft": false,
       "prerelease": false,
       "assets": [
         {
-          "name": "VNM_0.15.0_Setup.exe",
-          "size": 70869104,
-          "sha256": "d56644aee5a16f82d206e58fc9f29683bae0d7203afb93b9ee940a54c153f538"
+          "name": "VNM_0.15.1_Setup.exe",
+          "size": 70869028,
+          "sha256": "184430bca6e64b8be338f05a4661887fbe7489a94aadc4cf7115fe5b35422490"
         },
         {
-          "name": "VNM_0.15.0_Setup.exe.sha256",
+          "name": "VNM_0.15.1_Setup.exe.sha256",
           "size": 88,
-          "sha256": "41d1335a88a31949d0dfb8b5659ca17ab8b2f5e8b992499d949589500d36de42"
+          "sha256": "03936e9e1d35f83b5f1297aa668458d3503c5d57edb156bd7fbf96c002c91ed1"
         },
         {
-          "name": "VNM_0.15.0_Windows.zip",
-          "size": 69167711,
-          "sha256": "e02ef39cfffb45ed04f822b82d40495d63e091910e5b2f4123aff4eb32db36de"
+          "name": "VNM_0.15.1_Windows.zip",
+          "size": 69168601,
+          "sha256": "8b7c7ddc2b05eb0a02b0397251e6ad9dbc4fe6f870667afb076d4e9db5be846b"
         },
         {
-          "name": "VNM_0.15.0_Windows.zip.sha256",
+          "name": "VNM_0.15.1_Windows.zip.sha256",
           "size": 90,
-          "sha256": "dc8de4fd1780ad63bfab8de48778a79ef349fad021503deafda84d651533f8d7"
+          "sha256": "3a835c91e95222029c1411302d857e673dc59cd43b23affc451ad9f22ead6732"
         },
         {
-          "name": "VNM_0.15.0_from_0.14.4_patch.zip",
-          "size": 18038901,
-          "sha256": "85db6dd4fd955cf5e671b7acdc41e48b933aca313b6676496c87a112f4989969"
+          "name": "VNM_0.15.1_from_0.14.8_patch.zip",
+          "size": 18015853,
+          "sha256": "6bc29fcc030a4df9d9ff35ed30af1eba80a5147e7759a964454f704056b77639"
         },
         {
-          "name": "VNM_0.15.0_from_0.14.4_patch.zip.sha256",
+          "name": "VNM_0.15.1_from_0.14.8_patch.zip.sha256",
           "size": 100,
-          "sha256": "fec14e2f7741af2713949d344b00fa92ed48ce196a08232abcb0b72c3b96aa2a"
+          "sha256": "10d253fc25511aa35ed9d9e7260ca5eaa400f8e64af820ece6c4a531946ca2e3"
         },
         {
-          "name": "VNM_0.15.0_from_0.14.5_patch.zip",
-          "size": 52230849,
-          "sha256": "a6a0fd40f97d7e814aebb3f3fab59283c9162931b1e109066d86393060e45d15"
+          "name": "VNM_0.15.1_from_0.15.0_patch.zip",
+          "size": 17999291,
+          "sha256": "92a93d675d49f6826b1f837265a175c727737a253b3dbcb4d8aa63b65c01348c"
         },
         {
-          "name": "VNM_0.15.0_from_0.14.5_patch.zip.sha256",
+          "name": "VNM_0.15.1_from_0.15.0_patch.zip.sha256",
           "size": 100,
-          "sha256": "e3cd3a960e7d8a3c3360f235581b69d4cd5b7bfc2bac3fd4ccdb364e5a857399"
-        },
-        {
-          "name": "VNM_0.15.0_from_0.14.6_patch.zip",
-          "size": 52228753,
-          "sha256": "09a1789f7b5a549b122f475d51365ed4126f7fb9bbeb7226c6b208949cc7fd5f"
-        },
-        {
-          "name": "VNM_0.15.0_from_0.14.6_patch.zip.sha256",
-          "size": 100,
-          "sha256": "c2ca9decd6d4f2b936ac26df9a7f30dbd70efa08678c7899a62483597da287d5"
-        },
-        {
-          "name": "VNM_0.15.0_from_0.14.7_patch.zip",
-          "size": 18013576,
-          "sha256": "5709d51d0f644f11a766684dcf0f675a849735cd81bfd690d745cbd81f2063e2"
-        },
-        {
-          "name": "VNM_0.15.0_from_0.14.7_patch.zip.sha256",
-          "size": 100,
-          "sha256": "b0e18deb367b4cc42445eda1d68d97ac38dedb613b5212836f9590efbe21ceaf"
-        },
-        {
-          "name": "VNM_0.15.0_from_0.14.8_patch.zip",
-          "size": 18013576,
-          "sha256": "85e23ee428d14c31edb9f48b915776c0200ce7a5178b0e61580d42286f27ebe6"
-        },
-        {
-          "name": "VNM_0.15.0_from_0.14.8_patch.zip.sha256",
-          "size": 100,
-          "sha256": "455bb47b42fd711a7be8f66fbd0aeb8798730d0fac413e7e46ac3098d7793a4b"
+          "sha256": "44867fbb78916ebe2d0702bd03189af81ab4254107896ded0189ea23c6dabf2e"
         }
       ]
     }
