@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "application": "tailoc-vnm-local",
+  "label": "VNM",
+  "releases": [
+    {
+      "tag_name": "vnm-v0.14.7",
+      "draft": false,
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "VNM_0.14.7_Setup.exe",
+          "size": 70819935,
+          "sha256": "c3421441fa93dc994531e0a9b905ffa4cecf7c1625df4164799d9cc7d7eeff06"
+        },
+        {
+          "name": "VNM_0.14.7_Setup.exe.sha256",
+          "size": 88,
+          "sha256": "3afac90b4cdc3a700fe56eccdbacb6c0775372b99455ca10a4d9317b09ae1109"
+        },
+        {
+          "name": "VNM_0.14.7_Windows.zip",
+          "size": 69118653,
+          "sha256": "8bf409dd67c2235dcd795fdba130b69df0cab2de4e6491f7e256772a96932e0d"
+        },
+        {
+          "name": "VNM_0.14.7_Windows.zip.sha256",
+          "size": 90,
+          "sha256": "86852a5a6c751904efd0d30091222c8c6acc44e5d9fc8040363cbbf0805b33ff"
+        },
+        {
+          "name": "VNM_0.14.7_from_0.14.4_patch.zip",
+          "size": 17985076,
+          "sha256": "3298e71c8fb694b641f8b7c3849e5f528da069c6df5f0652950e2545cc998dec"
+        },
+        {
+          "name": "VNM_0.14.7_from_0.14.4_patch.zip.sha256",
+          "size": 100,
+          "sha256": "92655ca0504b369b717752b41554bedcf160d9f7224c866d3da2b73bae1bb954"
+        },
+        {
+          "name": "VNM_0.14.7_from_0.14.5_patch.zip",
+          "size": 52177024,
+          "sha256": "3b34ee063335ed486ea28c6c1606c8d6e4d5de35ed1db0fa77031b5429612bfd"
+        },
+        {
+          "name": "VNM_0.14.7_from_0.14.5_patch.zip.sha256",
+          "size": 100,
+          "sha256": "8ee5d247bffafd4a1563a6286079eb5165185f9d778360effe98b921748c119b"
+        },
+        {
+          "name": "VNM_0.14.7_from_0.14.6_patch.zip",
+          "size": 52174928,
+          "sha256": "175d5c4ce1ae3ecfc34522fbe8401949c9dd5a3b3116d579b9c9f143a355252f"
+        },
+        {
+          "name": "VNM_0.14.7_from_0.14.6_patch.zip.sha256",
+          "size": 100,
+          "sha256": "cce4e09d9a13efe20fccf918e12f3be51e0f8abce20e16eaac33d4a5c4297168"
+        }
+      ]
+    }
+  ]
+}

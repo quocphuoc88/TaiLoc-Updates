@@ -4,69 +4,59 @@
   "label": "VNM",
   "releases": [
     {
-      "tag_name": "vnm-v0.14.4",
+      "tag_name": "vnm-v0.14.7",
       "draft": false,
       "prerelease": false,
       "assets": [
         {
-          "name": "CAP_NHAT_VNM.exe",
-          "size": 12437056,
-          "sha256": "d6ccf69db4a16cfb1b4d5983b79711aab70ad4e0f5da846506e98da4b4dc4350"
+          "name": "VNM_0.14.7_Setup.exe",
+          "size": 70819935,
+          "sha256": "c3421441fa93dc994531e0a9b905ffa4cecf7c1625df4164799d9cc7d7eeff06"
         },
         {
-          "name": "CAP_NHAT_VNM.exe.sha256",
-          "size": 84,
-          "sha256": "b8192a9e8f90bbfded5d106049f72079879362b7066152aac654b2bc530c3c09"
-        },
-        {
-          "name": "VNM_0.14.4_Setup.exe",
-          "size": 70790192,
-          "sha256": "5c1b53e2040ca57ae0937f86e4cce5a8f9318fbb63753d52e267d87893e3b048"
-        },
-        {
-          "name": "VNM_0.14.4_Setup.exe.sha256",
+          "name": "VNM_0.14.7_Setup.exe.sha256",
           "size": 88,
-          "sha256": "ffd4ca1046128eeb74964eea08ac52b52b1a272f5601a7f8ab2d3a32dbd7fb27"
+          "sha256": "3afac90b4cdc3a700fe56eccdbacb6c0775372b99455ca10a4d9317b09ae1109"
         },
         {
-          "name": "VNM_0.14.4_Windows.zip",
-          "size": 69087643,
-          "sha256": "4d3d13b9db66833b24293c33ea4d32f50d89f776211b6dda6732cfead93864ba"
+          "name": "VNM_0.14.7_Windows.zip",
+          "size": 69118653,
+          "sha256": "8bf409dd67c2235dcd795fdba130b69df0cab2de4e6491f7e256772a96932e0d"
         },
         {
-          "name": "VNM_0.14.4_Windows.zip.sha256",
+          "name": "VNM_0.14.7_Windows.zip.sha256",
           "size": 90,
-          "sha256": "45dd9a289193ddb3be77fd0fbaddebec0701e87f247790d55601c02b457e6517"
+          "sha256": "86852a5a6c751904efd0d30091222c8c6acc44e5d9fc8040363cbbf0805b33ff"
         },
         {
-          "name": "VNM_0.14.4_from_0.14.1_patch.zip",
-          "size": 31229727,
-          "sha256": "8f60ab50936be22090c702ecb919cc506fc49bc6b89ea395ef2fa59a818cccff"
+          "name": "VNM_0.14.7_from_0.14.4_patch.zip",
+          "size": 17985076,
+          "sha256": "3298e71c8fb694b641f8b7c3849e5f528da069c6df5f0652950e2545cc998dec"
         },
         {
-          "name": "VNM_0.14.4_from_0.14.1_patch.zip.sha256",
+          "name": "VNM_0.14.7_from_0.14.4_patch.zip.sha256",
           "size": 100,
-          "sha256": "ab0ed3486ce285d34ae382ff82a731b81dbd49035e43af6eda9542a7fe7df665"
+          "sha256": "92655ca0504b369b717752b41554bedcf160d9f7224c866d3da2b73bae1bb954"
         },
         {
-          "name": "VNM_0.14.4_from_0.14.2_patch.zip",
-          "size": 30160142,
-          "sha256": "cf1db328f42ca53b9e64ad3b1618f4d2fa2df94dc7615fa6fadf8a9ce79671c4"
+          "name": "VNM_0.14.7_from_0.14.5_patch.zip",
+          "size": 52177024,
+          "sha256": "3b34ee063335ed486ea28c6c1606c8d6e4d5de35ed1db0fa77031b5429612bfd"
         },
         {
-          "name": "VNM_0.14.4_from_0.14.2_patch.zip.sha256",
+          "name": "VNM_0.14.7_from_0.14.5_patch.zip.sha256",
           "size": 100,
-          "sha256": "6ee9adcbe60a60ce57adcf0a3a19326666fc4e6621df65509dc709e97defea58"
+          "sha256": "8ee5d247bffafd4a1563a6286079eb5165185f9d778360effe98b921748c119b"
         },
         {
-          "name": "VNM_0.14.4_from_0.14.3_patch.zip",
-          "size": 17937941,
-          "sha256": "ed1703353f8a9919bfdfb8272192bf11fef0c8be2f3bb1d314910526f46c9724"
+          "name": "VNM_0.14.7_from_0.14.6_patch.zip",
+          "size": 52174928,
+          "sha256": "175d5c4ce1ae3ecfc34522fbe8401949c9dd5a3b3116d579b9c9f143a355252f"
         },
         {
-          "name": "VNM_0.14.4_from_0.14.3_patch.zip.sha256",
+          "name": "VNM_0.14.7_from_0.14.6_patch.zip.sha256",
           "size": 100,
-          "sha256": "4ee1ef4f52bc1138bad2e3f1312f8eea32650ce53d6053100a0264befe6d6843"
+          "sha256": "cce4e09d9a13efe20fccf918e12f3be51e0f8abce20e16eaac33d4a5c4297168"
         }
       ]
     }
