@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "application": "tailoc-tong-hop-local",
+  "label": "KE_TOAN_TONG_HOP",
+  "releases": [
+    {
+      "tag_name": "tong-hop-v0.11.8",
+      "draft": false,
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "KE_TOAN_TONG_HOP_0.11.8_Setup.exe",
+          "size": 122057209,
+          "sha256": "731579c0c213df4de0e6d813e27de1a72a526e240b39a9fc6ac3ef457f0b1658"
+        },
+        {
+          "name": "KE_TOAN_TONG_HOP_0.11.8_Setup.exe.sha256",
+          "size": 101,
+          "sha256": "b67356deaf7ae465b2be430e184ccca52898a0a3a5451d3ff0814e72b72fe811"
+        },
+        {
+          "name": "KE_TOAN_TONG_HOP_0.11.8_Windows.zip",
+          "size": 120762820,
+          "sha256": "d64d6123dbf04899f01d6e96b7d9b7830e02837113752eb1e2bc3cc3303f1541"
+        },
+        {
+          "name": "KE_TOAN_TONG_HOP_0.11.8_Windows.zip.sha256",
+          "size": 103,
+          "sha256": "0671c78ed12e61ff3d6eb78f2d6333bf9584aa53d3acc94e607b0414fa698e17"
+        },
+        {
+          "name": "KE_TOAN_TONG_HOP_0.11.8_from_0.11.7_patch.zip",
+          "size": 26304255,
+          "sha256": "3a36483b9a3e65e5e667bd7c475c349416e1a5eebe2b6f1cebccb73a1bb1725e"
+        },
+        {
+          "name": "KE_TOAN_TONG_HOP_0.11.8_from_0.11.7_patch.zip.sha256",
+          "size": 113,
+          "sha256": "bb89a4e5963cedbc7e61920ccef0d32e2288c0f21afc2908316f68895095933d"
+        }
+      ]
+    }
+  ]
+}
