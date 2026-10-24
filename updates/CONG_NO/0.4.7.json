@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "application": "tailoc-cong-no-local",
+  "label": "CONG_NO",
+  "releases": [
+    {
+      "tag_name": "cong-no-v0.4.7",
+      "draft": false,
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "CONG_NO_0.4.7_Setup.exe",
+          "size": 81105756,
+          "sha256": "81821bc87ec38f3e03f2662de0a6ff0cf3c8d0d0119875d29158a3312727330a"
+        },
+        {
+          "name": "CONG_NO_0.4.7_Setup.exe.sha256",
+          "size": 91,
+          "sha256": "6a37c35c432cdaa51f4179bd4bfef0cdd199835013677231ec259c45c7b87e5b"
+        },
+        {
+          "name": "CONG_NO_0.4.7_Windows.zip",
+          "size": 79411547,
+          "sha256": "b31c4f68930332494a48463a64ef2ffd1463a96a1420de2142c6cccbbfe4d3dc"
+        },
+        {
+          "name": "CONG_NO_0.4.7_Windows.zip.sha256",
+          "size": 93,
+          "sha256": "88de8b1ed1f2b49b5eccb1a77f82db59085fff85df72ccddef0becbc8fef4a9e"
+        },
+        {
+          "name": "CONG_NO_0.4.7_from_0.4.6_patch.zip",
+          "size": 16560415,
+          "sha256": "32627a2115f79b7abb175d47614b1577ee306f5153f67fc04bb445692251bb54"
+        },
+        {
+          "name": "CONG_NO_0.4.7_from_0.4.6_patch.zip.sha256",
+          "size": 102,
+          "sha256": "519635d8b005b17783ec2ee552506259543b4eac09a89e40abd488e5876a675b"
+        }
+      ]
+    }
+  ]
+}
