@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "application": "tailoc-orion-local",
+  "label": "ORION",
+  "releases": [
+    {
+      "tag_name": "orion-v1.0.26",
+      "draft": false,
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "ORION_1.0.26_Setup.exe",
+          "size": 102731524,
+          "sha256": "7895da9559c759066b01b9505ddc3276dc237c9e38f6c64e9309b769e2d085f4"
+        },
+        {
+          "name": "ORION_1.0.26_Setup.exe.sha256",
+          "size": 90,
+          "sha256": "6c18f8210c0bd05a12d4a4463c2d92d83b48e46455028d099714dcdf18640a03"
+        },
+        {
+          "name": "ORION_1.0.26_Windows.zip",
+          "size": 101229259,
+          "sha256": "d3ca5ca0bd1c807867b8a0c976277fdc50cadc32d6e8885e0ae83a07b9e4c5ac"
+        },
+        {
+          "name": "ORION_1.0.26_Windows.zip.sha256",
+          "size": 92,
+          "sha256": "93e03d11f29df877cc934284fb5751b263c77f085864b6e6e550aa9aae2cf98a"
+        },
+        {
+          "name": "ORION_1.0.26_from_1.0.22_patch.zip",
+          "size": 24363817,
+          "sha256": "46d0c01dd75a21ba38bc95cb8aa95285f3f622a852e9b624a78b8b4e28c68603"
+        },
+        {
+          "name": "ORION_1.0.26_from_1.0.22_patch.zip.sha256",
+          "size": 102,
+          "sha256": "e4d7399103e81f80e29170c1541f8be23fa1f2947debe8e7e4be5cb9620ca0a5"
+        },
+        {
+          "name": "ORION_1.0.26_from_1.0.23_patch.zip",
+          "size": 24361930,
+          "sha256": "4ff17e5729337b8761c3301ed9409b77ebe483c19f07056172942a11b1b7e7b2"
+        },
+        {
+          "name": "ORION_1.0.26_from_1.0.23_patch.zip.sha256",
+          "size": 102,
+          "sha256": "aedbd6a7c215d9ed8cd67666d5ef8c7bc9d0b49fed1cc5896aeca3737c7f5564"
+        },
+        {
+          "name": "ORION_1.0.26_from_1.0.24_patch.zip",
+          "size": 24353949,
+          "sha256": "24721401de840c85ab78d61c79914b25b76dc272d903591debb5bf8ffd8ebbe9"
+        },
+        {
+          "name": "ORION_1.0.26_from_1.0.24_patch.zip.sha256",
+          "size": 102,
+          "sha256": "110850865e24f35ed0edf1580a9f59ab3efc148a42d5eff4a615083ed99a081e"
+        }
+      ]
+    }
+  ]
+}
