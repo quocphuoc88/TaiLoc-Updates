@@ -4,59 +4,59 @@
   "label": "ORION",
   "releases": [
     {
-      "tag_name": "orion-v1.0.26",
+      "tag_name": "orion-v1.0.27",
       "draft": false,
       "prerelease": false,
       "assets": [
         {
-          "name": "ORION_1.0.26_Setup.exe",
-          "size": 102731524,
-          "sha256": "7895da9559c759066b01b9505ddc3276dc237c9e38f6c64e9309b769e2d085f4"
+          "name": "ORION_1.0.27_Setup.exe",
+          "size": 103065574,
+          "sha256": "2b746889c7665df76cd0527c3acaadd0a830ad4c435c3ff8ab636874483f680e"
         },
         {
-          "name": "ORION_1.0.26_Setup.exe.sha256",
+          "name": "ORION_1.0.27_Setup.exe.sha256",
           "size": 90,
-          "sha256": "6c18f8210c0bd05a12d4a4463c2d92d83b48e46455028d099714dcdf18640a03"
+          "sha256": "049c69bdd11bbbc9639030f05d106e33b82553e31b327c2dfd794c72bdde0c3f"
         },
         {
-          "name": "ORION_1.0.26_Windows.zip",
-          "size": 101229259,
-          "sha256": "d3ca5ca0bd1c807867b8a0c976277fdc50cadc32d6e8885e0ae83a07b9e4c5ac"
+          "name": "ORION_1.0.27_Windows.zip",
+          "size": 101562454,
+          "sha256": "c634689671fd507b4f816ee7643e07c235fab3084f9f7206f3266c1cc726d5c9"
         },
         {
-          "name": "ORION_1.0.26_Windows.zip.sha256",
+          "name": "ORION_1.0.27_Windows.zip.sha256",
           "size": 92,
-          "sha256": "93e03d11f29df877cc934284fb5751b263c77f085864b6e6e550aa9aae2cf98a"
+          "sha256": "3feef6e52ce855f7b0212fd01fa5024a5fc829bcea5185d34d9c98f5f19c14d6"
         },
         {
-          "name": "ORION_1.0.26_from_1.0.22_patch.zip",
-          "size": 24363817,
-          "sha256": "46d0c01dd75a21ba38bc95cb8aa95285f3f622a852e9b624a78b8b4e28c68603"
+          "name": "ORION_1.0.27_from_1.0.23_patch.zip",
+          "size": 24698336,
+          "sha256": "3af334f8d1b39136ccacf0ddbb30f29e73edf90e6b6f13d9ac0b5bc266736501"
         },
         {
-          "name": "ORION_1.0.26_from_1.0.22_patch.zip.sha256",
+          "name": "ORION_1.0.27_from_1.0.23_patch.zip.sha256",
           "size": 102,
-          "sha256": "e4d7399103e81f80e29170c1541f8be23fa1f2947debe8e7e4be5cb9620ca0a5"
+          "sha256": "50af6b4b846581091435db9c5d124c3a6a4c81e215a2e983f9458bb20ee3f4ef"
         },
         {
-          "name": "ORION_1.0.26_from_1.0.23_patch.zip",
-          "size": 24361930,
-          "sha256": "4ff17e5729337b8761c3301ed9409b77ebe483c19f07056172942a11b1b7e7b2"
+          "name": "ORION_1.0.27_from_1.0.24_patch.zip",
+          "size": 24690355,
+          "sha256": "7f82cbd16adf5e4f1f18440549b9fbe6e8ef4fc3b24d51cfb8336e22aa6672e3"
         },
         {
-          "name": "ORION_1.0.26_from_1.0.23_patch.zip.sha256",
+          "name": "ORION_1.0.27_from_1.0.24_patch.zip.sha256",
           "size": 102,
-          "sha256": "aedbd6a7c215d9ed8cd67666d5ef8c7bc9d0b49fed1cc5896aeca3737c7f5564"
+          "sha256": "a28a66ff3c7acf3c55895f86534a8bc2fb71e16e7b86d8341ffc4a0efa21bf04"
         },
         {
-          "name": "ORION_1.0.26_from_1.0.24_patch.zip",
-          "size": 24353949,
-          "sha256": "24721401de840c85ab78d61c79914b25b76dc272d903591debb5bf8ffd8ebbe9"
+          "name": "ORION_1.0.27_from_1.0.26_patch.zip",
+          "size": 24682456,
+          "sha256": "d210372eb00b7917e3c4a070060ada4ae011a3072c7325795bfd6340453555eb"
         },
         {
-          "name": "ORION_1.0.26_from_1.0.24_patch.zip.sha256",
+          "name": "ORION_1.0.27_from_1.0.26_patch.zip.sha256",
           "size": 102,
-          "sha256": "110850865e24f35ed0edf1580a9f59ab3efc148a42d5eff4a615083ed99a081e"
+          "sha256": "40114b1a4266507ab7dccd36b87b5325c679ef6430dc43ee956f8408a08a36fd"
         }
       ]
     }
