@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "application": "tailoc-vnm-local",
+  "label": "VNM",
+  "releases": [
+    {
+      "tag_name": "vnm-v0.19.17",
+      "draft": false,
+      "prerelease": false,
+      "assets": [
+        {
+          "name": "VNM_0.19.17_Setup.exe",
+          "size": 72618075,
+          "sha256": "0a1e424e3b4fbbf457c064af29fc9214c44accf3d2a6c65fbbc30d51f9e457a1"
+        },
+        {
+          "name": "VNM_0.19.17_Setup.exe.sha256",
+          "size": 89,
+          "sha256": "17ca6d536a39af906181ce5c847aba015ebabef4e9f172cc991e327e2603b963"
+        },
+        {
+          "name": "VNM_0.19.17_Windows.zip",
+          "size": 70922997,
+          "sha256": "62661c44128b720727d7db8cac34f7b523f88a48d175745de7c6f52a9f4afabe"
+        },
+        {
+          "name": "VNM_0.19.17_Windows.zip.sha256",
+          "size": 91,
+          "sha256": "f91e662de850fca848bc1953dec964d892baf12e17c26ed228fecf6c7eb206c2"
+        },
+        {
+          "name": "VNM_0.19.17_from_0.19.16_patch.zip",
+          "size": 19677857,
+          "sha256": "45320e0a50521328d26b512d8019d8a1b53fa45e05aa2ccfa78923ef0fa3cd5f"
+        },
+        {
+          "name": "VNM_0.19.17_from_0.19.16_patch.zip.sha256",
+          "size": 102,
+          "sha256": "d6d46e25b8ae27eb95102892c808ddcbb8080288e278ed30d9abdb3d22dcf76e"
+        }
+      ]
+    }
+  ]
+}
