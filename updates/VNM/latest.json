@@ -4,39 +4,39 @@
   "label": "VNM",
   "releases": [
     {
-      "tag_name": "vnm-v0.19.17",
+      "tag_name": "vnm-v0.19.18",
       "draft": false,
       "prerelease": false,
       "assets": [
         {
-          "name": "VNM_0.19.17_Setup.exe",
-          "size": 72618075,
-          "sha256": "0a1e424e3b4fbbf457c064af29fc9214c44accf3d2a6c65fbbc30d51f9e457a1"
+          "name": "VNM_0.19.18_Setup.exe",
+          "size": 72620077,
+          "sha256": "2b01974b5e10d6513974e79a0a914c7660c8483d71dcf1314f4c35c037a73fc3"
         },
         {
-          "name": "VNM_0.19.17_Setup.exe.sha256",
+          "name": "VNM_0.19.18_Setup.exe.sha256",
           "size": 89,
-          "sha256": "17ca6d536a39af906181ce5c847aba015ebabef4e9f172cc991e327e2603b963"
+          "sha256": "47986588b78d1a28ee0b05f12a66c1a0668f4731e0e572eae9e55ff8bf9284e2"
         },
         {
-          "name": "VNM_0.19.17_Windows.zip",
-          "size": 70922997,
-          "sha256": "62661c44128b720727d7db8cac34f7b523f88a48d175745de7c6f52a9f4afabe"
+          "name": "VNM_0.19.18_Windows.zip",
+          "size": 70924525,
+          "sha256": "4bf6f05d25c3a1b81ba5676af4f787800f818008da1e5086d5be2fd4157d2058"
         },
         {
-          "name": "VNM_0.19.17_Windows.zip.sha256",
+          "name": "VNM_0.19.18_Windows.zip.sha256",
           "size": 91,
-          "sha256": "f91e662de850fca848bc1953dec964d892baf12e17c26ed228fecf6c7eb206c2"
+          "sha256": "6a199f41551cd1a41caa175c6c77a1263b57a62f4b0847ad1d5153233812568c"
         },
         {
-          "name": "VNM_0.19.17_from_0.19.16_patch.zip",
-          "size": 19677857,
-          "sha256": "45320e0a50521328d26b512d8019d8a1b53fa45e05aa2ccfa78923ef0fa3cd5f"
+          "name": "VNM_0.19.18_from_0.19.17_patch.zip",
+          "size": 19673540,
+          "sha256": "c6e023dbed35e2567e312f6cfca14aa415a5f8017414ace47f8b0113a827fd80"
         },
         {
-          "name": "VNM_0.19.17_from_0.19.16_patch.zip.sha256",
+          "name": "VNM_0.19.18_from_0.19.17_patch.zip.sha256",
           "size": 102,
-          "sha256": "d6d46e25b8ae27eb95102892c808ddcbb8080288e278ed30d9abdb3d22dcf76e"
+          "sha256": "8bcae4f947f81d7cf413d27afecd969abb61e1fa7c79cf48cd414806d7d0745a"
         }
       ]
     }
